@@ -1,3 +1,4 @@
+micropip.install()
 import os, re, json, requests, threading
 from urllib.request import Request, urlopen
 from getmac import get_mac_address as gma
